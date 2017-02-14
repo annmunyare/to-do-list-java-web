@@ -1,0 +1,11 @@
+body {
+    font-family: 'Pangolin', cursive;
+    /*background-image: url(/images/3.jpg);*/
+    /*background-repeat: no-repeat;*/
+    font-kerning: auto;
+    color: red;
+}
+
+#td {
+    align-items: center;
+}
